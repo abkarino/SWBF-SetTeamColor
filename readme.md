@@ -28,4 +28,4 @@ SetTeamColor(1, 2, 0, 0, 255)
 ```
 This tells the game that if the selected character belongs to `Team 1`, it would see `Team 2` on the map as BLUE `#0000FF`.
 
-Most maps would be using the constants `ATT` or `DEF` for teams which is equivelent to `0` and `1` respectively.
+Most maps would be using the constants `ATT` or `DEF` for teams which is equivelent to `1` and `2` respectively.
